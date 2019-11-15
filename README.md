@@ -2,11 +2,6 @@
 
 My effort on designing various UI on flutter.
 
-### Show some :heart: and star the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/manumanoj0010/Flutter_UI.svg?style=social&label=Star)](https://github.com/manumanoj0010/Flutter_UI) [![GitHub forks](https://img.shields.io/github/forks/manumanoj0010/Flutter_UI.svg?style=social&label=Fork)](https://github.com/manumanoj0010/Flutter_UI.svg/fork) [![GitHub watchers](https://img.shields.io/github/watchers/manumanoj0010/Flutter_UI.svg?style=social&label=Watch)](https://github.com/manumanoj0010/Flutter_UI) [![GitHub followers](https://img.shields.io/github/followers/manumanoj0010.svg?style=social&label=Follow)](https://github.com/manumanoj0010)
-
-
 ## Table of contents
 
 - **[Design -1](##Design-1)**
@@ -44,5 +39,11 @@ For help getting started with Flutter, view our online
 Designs: [dribbble](https://dribbble.com)
 
 Icons: [Icons8](https://icons8.com/)
+
+
+### Show some :heart: and star the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/manumanoj0010/Flutter_UI.svg?style=social&label=Star)](https://github.com/manumanoj0010/Flutter_UI) [![GitHub forks](https://img.shields.io/github/forks/manumanoj0010/Flutter_UI.svg?style=social&label=Fork)](https://github.com/manumanoj0010/Flutter_UI.svg/fork) [![GitHub watchers](https://img.shields.io/github/watchers/manumanoj0010/Flutter_UI.svg?style=social&label=Watch)](https://github.com/manumanoj0010/Flutter_UI) [![GitHub followers](https://img.shields.io/github/followers/manumanoj0010.svg?style=social&label=Follow)](https://github.com/manumanoj0010)
+
 
 
