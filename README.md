@@ -5,17 +5,18 @@ My effort on designing various UI on flutter.
 
 ## Table of contents
 
-- **[Design -1](#speed-codes-youtube)**
+- **[Design -1](##Design-1)**
 
 
-##[Design -1](https://github.com/manumanoj0010/Flutter_UI/tree/master/Design-1)
+## [Design -1](https://github.com/manumanoj0010/Flutter_UI/tree/master/Design-1)
 
 ### Packages Used
 
 - No packages are used
 
 
-###Screenshots
+### Screenshots
+
 <img height="480px" src="https://raw.githubusercontent.com/manumanoj0010/Flutter_UI/master/Design-1/readme_images/1.png"> <img height="480px" src="https://raw.githubusercontent.com/manumanoj0010/Flutter_UI/master/Design-1/readme_images/2.PNG">
 
 
