@@ -5,6 +5,7 @@ My effort on designing various UI on flutter.
 ## Table of contents
 
 - **[Design -1](##Design-1)**
+- **[Design -2](##Design-2)**
 
 
 ## [Design -1](https://github.com/manumanoj0010/Flutter_UI/tree/master/Design-1)
@@ -17,6 +18,17 @@ My effort on designing various UI on flutter.
 ### Screenshots
 
 <img height="480px" src="https://raw.githubusercontent.com/manumanoj0010/Flutter_UI/master/Design-1/readme_images/1.png"> <img height="480px" src="https://raw.githubusercontent.com/manumanoj0010/Flutter_UI/master/Design-1/readme_images/2.PNG">
+
+## [Design -2](https://github.com/manumanoj0010/Flutter_UI/tree/master/Design-2)
+
+### Packages Used
+
+- No packages are used
+
+
+### Screenshots
+
+<img height="480px" src="https://raw.githubusercontent.com/manumanoj0010/Flutter_UI/master/Design-2/readme_images/1.png"> <img height="480px" src="https://raw.githubusercontent.com/manumanoj0010/Flutter_UI/master/Design-2/readme_images/2.PNG">
 
 
 
